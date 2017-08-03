@@ -250,12 +250,14 @@ Delivery CLI
 
 Integrations
 -----------------------------------------------------
-:doc:`w/Bitbucket </integrate_delivery_bitbucket>` |
-:doc:`w/Email (SMTP) </integrate_delivery_smtp>` |
-:doc:`w/GitHub </integrate_delivery_github>` |
-:doc:`w/LDAP </integrate_delivery_ldap>` |
-:doc:`w/SAML </integrate_chef_automate_saml>` |
-:doc:`w/Slack </integrate_delivery_slack>`
+:doc:`Authentication w/LDAP </integrate_delivery_ldap>` |
+:doc:`Authentication w/SAML </integrate_chef_automate_saml>` |
+:doc:`Visibility w/Slack </integrate_notifications_slack>` |
+:doc:`Visibility w/Custom Webhooks </integrate_notifications_slack>` |
+:doc:`Workflow w/Bitbucket </integrate_delivery_bitbucket>` |
+:doc:`Workflow w/Email (SMTP) </integrate_delivery_smtp>` |
+:doc:`Workflow w/GitHub </integrate_delivery_github>` |
+:doc:`Workflow w/Slack </integrate_delivery_slack>`
 
 Cookbooks
 -----------------------------------------------------
